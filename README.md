@@ -2,7 +2,7 @@
 
 ## Overview
 
-Adds six(6) HTTP security headers to the CloudFront response. The values listed in the [Python example](aws-lambda-edge-sec-headers/blob/main/securityHeaders.py) should get you a high mark on the Mozilla Observatory scan.
+Adds six(6) HTTP security headers to the CloudFront response. The values listed in the [Python example](securityHeaders.py) should get you a high mark on the Mozilla Observatory scan.
 
 ## Deployment
 
